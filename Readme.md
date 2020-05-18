@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [lev tom](https://up.htmlacademy.ru/htmlcss/28/user/1194181).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Колесников https://htmlacademy.ru/profile/id477095.
 
 ---
 
